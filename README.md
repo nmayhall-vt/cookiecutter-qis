@@ -37,7 +37,7 @@ With [`cookiecutter` installed](https://cookiecutter.readthedocs.io/en/latest/in
 execute the following command inside the folder you want to create the skeletal repository.
 
 ```bash
-cookiecutter gh:molssi/cookiecutter-cms
+cookiecutter gh:nmayhall-vt/cookiecutter-qis
 ```
 
 Which fetches this repository from github automatically and prompts the user for some simple information such as
@@ -365,7 +365,7 @@ upon setup.
 
 ## Acknowledgments
 
-This cookiecutter is developed by Levi N. Naden and Jessica A. Nash from
+This cookiecutter is a slight tweak from that which was developed by Levi N. Naden and Jessica A. Nash from
 the [Molecular Sciences Software Institute (MolSSI)](http://molssi.org/); and Daniel G. A. Smith
 of [ENTOS](https://www.entos.ai/). Additional major development has been provided by M. Eric Irrgang. Copyright (c)
 2022.
