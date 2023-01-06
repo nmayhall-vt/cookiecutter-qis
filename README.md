@@ -1,10 +1,11 @@
-# Cookiecutter for Computational Molecular Sciences (CMS) Python Packages
+# Cookiecutter for Quantum Information Sciences (QIS) Python Packages
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/MolSSI/cookiecutter-cms/workflows/Pseudo%20Validate%20GHA%20Output/badge.svg)](https://github.com/MolSSI/cookiecutter-cms/actions?query=workflow%3A%22Pseudo+Validate+GHA+Output%22)
-[![Documentation Status](https://readthedocs.org/projects/cookiecutter-cms/badge/?version=latest)](https://cookiecutter-cms.readthedocs.io/en/latest/?badge=latest)
+[![GitHub Actions Build Status](https://github.com/nmayhall-vt/cookiecutter-qis/workflows/Pseudo%20Validate%20GHA%20Output/badge.svg)](https://github.com/nmayhall-vt/cookiecutter-qis/actions?query=workflow%3A%22Pseudo+Validate+GHA+Output%22)
+[![Documentation Status](https://readthedocs.org/projects/cookiecutter-qis/badge/?version=latest)](https://cookiecutter-qis.readthedocs.io/en/latest/?badge=latest)
 
-A [cookiecutter](https://github.com/cookiecutter/cookiecutter) template for those interested in developing computational
-molecular packages in Python. Skeletal starting repositories can be created from this template to create the file
+A [cookiecutter](https://github.com/cookiecutter/cookiecutter) template for those interested in developing quantum information science packages in Python. 
+This is modeled (and forked!) from [MolSSI](https://github.com/MolSSI/cookiecutter-cms)
+Skeletal starting repositories can be created from this template to create the file
 structure semi-autonomously, so you can focus on what's important: the science!
 
 The skeletal structure is designed to help you get started, but do not feel limited by the skeleton's features included
